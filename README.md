@@ -39,7 +39,7 @@ npm install --save pingzeex
 ```js
 const PingzeeX = require('pingzeex');
 
-const app = PingzeeX('123456870'); /* unique configuration key */
+const app = PingzeeX.connect('123456870'); /* unique configuration key */
 
 app.on("data", function (data) {
   if (data.type === 0) {
@@ -67,7 +67,7 @@ app.on("error",function(err){
 ```js
 const PingzeeX = require('pingzeex');
 
-const app = PingzeeX('123456870');
+const app = PingzeeX.connect('123456870');
 
 app.on("data", function (data) {
   if (data.type === 0) {
