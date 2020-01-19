@@ -1,0 +1,19 @@
+{
+  "name": "pingzeex",
+  "version": "0.0.1",
+  "description": "client side lib to connect with pingzee-x ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "connectivity",
+    "real-time"
+  ],
+  "author": "nikhil@pingzee.io",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
+}
