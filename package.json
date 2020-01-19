@@ -1,6 +1,6 @@
 {
   "name": "pingzeex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "client side lib to connect with pingzee-x ",
   "main": "index.js",
   "scripts": {
