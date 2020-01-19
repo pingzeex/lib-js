@@ -11,6 +11,10 @@
     "connectivity",
     "real-time"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/pingzeex-client-libs/javascript.git"
+  },
   "author": "nikhil@pingzee.io",
   "license": "ISC",
   "dependencies": {
