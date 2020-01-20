@@ -1,6 +1,6 @@
 {
   "name": "pingzeex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "client side lib to connect with pingzee-x ",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://gitlab.com/pingzeex-client-libs/javascript.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "nikhil@pingzee.io",
   "license": "ISC",
   "dependencies": {
