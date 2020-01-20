@@ -15,7 +15,6 @@
     "type": "git",
     "url": "git+https://gitlab.com/pingzeex-client-libs/javascript.git"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "nikhil@pingzee.io",
   "license": "ISC",
   "dependencies": {

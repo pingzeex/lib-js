@@ -77,7 +77,7 @@ app.on("data", function (data) {
 
 app.on("error",function(err){
 
-    throw(err)
+    console.log(err);
 })
 
 ```
